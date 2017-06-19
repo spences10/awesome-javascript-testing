@@ -29,36 +29,29 @@
 - [React Unit Testing With Mocha And Enzyme](https://medium.freecodecamp.com/react-unit-testing-with-mocha-and-enzyme-77d18b6875cb#.g5vbt63j6)
 - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 - [Testing Asynchronous JavaScript](https://martinfowler.com/articles/asyncJS.html)
-
-## Tools
-
--
+- [JavaScript Testing Tools Showdown: Sinon.js vs TestDouble.js](https://gist.github.com/searls/646d68bfb284af3956a294b55f14bad9)
+- [Complete Guide To Testing JavaScript In 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
+- [How To Structure Your Tests](https://codeutopia.net/blog/2017/05/15/quick-javascript-testing-tip-how-to-structure-your-tests/)
+- [Migrating From Mocha To Jest](https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e)
 
 ## Videos
 
 - [React + Ava Workshop](https://www.youtube.com/watch?v=UmDNx06472I&feature=youtu.be)
 - [Introduction To Jest Testing Framework](https://www.youtube.com/watch?v=tvy0bSgwtTo)
 - [Test JavaScript with Jest (egghead.io)](https://egghead.io/lessons/javascript-test-javascript-with-jest)
+- [Testing JavaScript Applications Workshop](https://www.youtube.com/watch?v=DdqiXcYDv-8) by [Kent C Dodds](https://github.com/kentcdodds)
 
-## Tips
-
--
-
-## FAQ
-
--
-
-## Documentation
+## Test Library Documentation
 
 - [Mocha](https://mochajs.org/)
 - [Sinon](http://sinonjs.org/docs/)
 - [Chai](http://chaijs.com/api/)
-- [Sinon-as-promised](https://github.com/bendrucker/sinon-as-promised)
 - [Chai-as-promised](https://github.com/domenic/chai-as-promised)
 - [Jest](https://facebook.github.io/jest/)
 - [Ava](https://github.com/avajs/ava)
 - [Tape](https://github.com/substack/tape)
-- [Enzyme]()
+- [TestDouble](https://github.com/testdouble/testdouble.js)
+- [Enzyme](https://github.com/airbnb/enzyme/)
 - [Supertest](https://github.com/visionmedia/supertest)
 - [Nock](https://github.com/node-nock/nock)
 
