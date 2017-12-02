@@ -15,6 +15,7 @@
 
 ## Articles
 
+- [JavaScript Testing for Beginners Course](https://www.marclittlemore.com/courses/javascript-testing-beginners-course/?signup=github-mini-course)
 - [Introduction To JavaScript Unit Testing](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
 - [How To Write High Quality Unit Tests](http://www.marclittlemore.com/how-to-write-high-quality-unit-tests/)
 - [Test Double](https://www.martinfowler.com/bliki/TestDouble.html)
@@ -33,6 +34,8 @@
 - [Complete Guide To Testing JavaScript In 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
 - [How To Structure Your Tests](https://codeutopia.net/blog/2017/05/15/quick-javascript-testing-tip-how-to-structure-your-tests/)
 - [Migrating From Mocha To Jest](https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e)
+- [Chapter 3: Testing, in Refactoring JavaScript](http://refactoringjs.com/files/refactoring-javascript.pdf)
+- [Chapter 4: Testing in Action, in Refactoring JavaScript](http://refactoringjs.com/files/refactoring-javascript.pdf)
 
 ## Videos
 
